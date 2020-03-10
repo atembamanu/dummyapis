@@ -113,6 +113,18 @@
             "bird_age": 11,
             "category": "Ground bird",
             "description": "The scissor-tailed kite is a small, slim grey and white kite with a relatively weak bill, a broad head, long pointed wings and a deeply forked tail."
+        },
+        {
+            "bird_id": 3,
+            "local_name": "Striated Heron",
+            "scientific_name": "Butorides striata",
+            "conservation_status": "Vulnerable",
+            "general_status": "Resident",
+            "sound_url": "https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_12.mp3",
+            "image_url": "https://cdn.pixabay.com/photo/2016/02/11/00/37/bird-1192937_1280.jpg",
+            "bird_age": 34,
+            "category": "Ground bird",
+            "description": "This small and stocky heron measures 40-49 cm in length and has a wingspan of 82-95 cm. It has a short neck and a short thick bill."
         }
     ],
     "sessions": [
