@@ -87,10 +87,6 @@
                 {
                     "sighting_id": 11,
                     "birds_count": 31
-                },
-                {
-                    "sighting_id": 12,
-                    "birds_count": 15
                 }
             ],
             "user_sessions": [
@@ -98,16 +94,6 @@
                     "session_id": 1,
                     "session_date": "2020-02-10",
                     "session_period": 3200000
-                },
-                {
-                    "session_id": 2,
-                    "session_date": "2020-02-04",
-                    "session_period": 3500000
-                },
-                {
-                    "session_id": 3,
-                    "session_date": "2020-02-05",
-                    "session_period": 2200000
                 }
             ]
         }
