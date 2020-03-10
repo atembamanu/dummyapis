@@ -73,29 +73,6 @@
                     "session_period": 2200000
                 }
             ]
-        },
-        {
-            "user_id": 3,
-            "user_type": "Tourist",
-            "user_name": "Justus Francis",
-            "user_email": "justus.f@gmail.com",
-            "submitted_sightings": [
-                {
-                    "sighting_id": 10,
-                    "birds_count": 5
-                },
-                {
-                    "sighting_id": 11,
-                    "birds_count": 31
-                }
-            ],
-            "user_sessions": [
-                {
-                    "session_id": 1,
-                    "session_date": "2020-02-10",
-                    "session_period": 3200000
-                }
-            ]
         }
     ],
     "sightings": [
@@ -110,12 +87,6 @@
             "sighting_location": 2,
             "user_id": 2,
             "birds_count": 10
-        },
-        {
-            "sighting_id": 3,
-            "sighting_location": 3,
-            "user_id": 3,
-            "birds_count": 5
         }
     ],
     "birds": [
@@ -168,12 +139,6 @@
             "user_id": 2,
             "session_date": "2020-02-05",
             "session_period": 2200000
-        },
-        {
-            "session_id": 3,
-            "user_id": 3,
-            "session_date": "2020-02-04",
-            "session_period": 2200000
         }
     ],
     "locations": [
@@ -184,10 +149,6 @@
         {
             "location_id": 2,
             "location_coordinates": "-1.2845697874987079,36.84286176675567"
-        },
-        {
-            "location_id": 3,
-            "location_coordinates": "-1.2659663253682383,36.752979853019205"
         }
     ]
 }
