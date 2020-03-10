@@ -111,5 +111,74 @@
                 }
             ]
         }
+    ],
+    "sightings": [
+        {
+            "sighting_id": 1,
+            "sighting_location": 1,
+            "user_id":1,
+            "birds_count": 5
+        },
+        {
+            "sighting_id": 2,
+            "sighting_location": 2,
+            "user_id":2,
+            "birds_count": 10
+        },
+        {
+            "sighting_id": 3,
+            "sighting_location": 3,
+            "user_id":3,
+            "birds_count": 5
+        }
+
+    ],
+    "birds": [
+        {
+            "bird_id": 1,
+            "local_name": "Black-winged (-shouldered) Kite",
+            "scientific_name": "Elanus caeruleus",
+            "conservation_status": "",
+            "general_status": "resident",
+            "sound_url": "https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_10.mp3",
+            "image_url":"https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_1280.jpg",
+            "bird_age": 21,
+            "category": "Ground bird",
+            "description": "They have long pink legs, a long thin black bill and are blackish above and white below, with a white head and neck with a varying amount of black. Males have a black back, often with greenish gloss. Females' backs have a brown hue, contrasting with the black remiges."
+        }
+    ],
+    "sessions":[
+        {
+            "session_id": 1,
+            "user_id":1,
+            "session_date": "2020-02-04",
+            "session_period":2200000
+        },
+        {
+            "session_id": 2,
+            "user_id":2,
+            "session_date": "2020-02-05",
+            "session_period":2200000
+        },
+        {
+            "session_id": 3,
+            "user_id":3,
+            "session_date": "2020-02-04",
+            "session_period":2200000
+        }
+         
+    ],
+    "locations":[
+        {
+            "location_id": 1,
+            "location_coordinates": "-1.2845056,36.8345088"
+        },
+        {
+            "location_id": 2,
+            "location_coordinates": "-1.2845697874987079,36.84286176675567"  
+        },{
+            "location_id": 3,
+            "location_coordinates": "-1.2659663253682383,36.752979853019205"
+        }
     ]
 }
