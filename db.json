@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "user_id": 1,
+            "id": 1,
             "user_type": "Guide",
             "user_name": "Emmanuel Atemba",
             "user_email": "atembaemm07@gmail.com",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "user_id": 2,
+            "id": 2,
             "user_type": "Tourist",
             "user_name": "Philip Nehru",
             "user_email": "wisdom@gmail.com",
@@ -77,13 +77,13 @@
     ],
     "sightings": [
         {
-            "sighting_id": 1,
+            "id": 1,
             "sighting_location": 1,
             "user_id": 1,
             "birds_count": 5
         },
         {
-            "sighting_id": 2,
+            "id": 2,
             "sighting_location": 2,
             "user_id": 2,
             "birds_count": 10
@@ -91,7 +91,7 @@
     ],
     "birds": [
         {
-            "bird_id": 1,
+            "id": 1,
             "local_name": "Black-winged (-shouldered) Kite",
             "scientific_name": "Elanus caeruleus",
             "conservation_status": "",
@@ -103,7 +103,7 @@
             "description": "They have long pink legs, a long thin black bill and are blackish above and white below, with a white head and neck with a varying amount of black. Males have a black back, often with greenish gloss. Females' backs have a brown hue, contrasting with the black remiges."
         },
         {
-            "bird_id": 2,
+            "id": 2,
             "local_name": "Scissor-tailed Kite",
             "scientific_name": "Chelictinia riocourii",
             "conservation_status": "",
@@ -115,7 +115,7 @@
             "description": "The scissor-tailed kite is a small, slim grey and white kite with a relatively weak bill, a broad head, long pointed wings and a deeply forked tail."
         },
         {
-            "bird_id": 3,
+            "id": 3,
             "local_name": "Striated Heron",
             "scientific_name": "Butorides striata",
             "conservation_status": "Vulnerable",
@@ -129,13 +129,13 @@
     ],
     "sessions": [
         {
-            "session_id": 1,
+            "id": 1,
             "user_id": 1,
             "session_date": "2020-02-04",
             "session_period": 2200000
         },
         {
-            "session_id": 2,
+            "id": 2,
             "user_id": 2,
             "session_date": "2020-02-05",
             "session_period": 2200000
@@ -143,11 +143,11 @@
     ],
     "locations": [
         {
-            "location_id": 1,
+            "id": 1,
             "location_coordinates": "-1.2845056,36.8345088"
         },
         {
-            "location_id": 2,
+            "id": 2,
             "location_coordinates": "-1.2845697874987079,36.84286176675567"
         }
     ]
