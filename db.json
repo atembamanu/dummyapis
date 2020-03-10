@@ -7,31 +7,31 @@
             "user_email": "atembaemm07@gmail.com",
             "submitted_sightings": [
                 {
-                    "sighting_id": 1,
+                    "id": 1,
                     "birds_count": 5
                 },
                 {
-                    "sighting_id": 2,
+                    "id": 2,
                     "birds_count": 31
                 },
                 {
-                    "sighting_id": 5,
+                    "id": 5,
                     "birds_count": 15
                 }
             ],
             "user_sessions": [
                 {
-                    "session_id": 1,
+                    "id": 1,
                     "session_date": "2020-03-02",
                     "session_period": 3200000
                 },
                 {
-                    "session_id": 4,
+                    "id": 4,
                     "session_date": "2020-03-04",
                     "session_period": 3500000
                 },
                 {
-                    "session_id": 6,
+                    "id": 6,
                     "session_date": "2020-03-05",
                     "session_period": 2200000
                 }
@@ -44,31 +44,31 @@
             "user_email": "wisdom@gmail.com",
             "submitted_sightings": [
                 {
-                    "sighting_id": 2,
+                    "id": 2,
                     "birds_count": 5
                 },
                 {
-                    "sighting_id": 3,
+                    "id": 3,
                     "birds_count": 31
                 },
                 {
-                    "sighting_id": 5,
+                    "id": 5,
                     "birds_count": 15
                 }
             ],
             "user_sessions": [
                 {
-                    "session_id": 1,
+                    "id": 1,
                     "session_date": "2020-03-03",
                     "session_period": 3200000
                 },
                 {
-                    "session_id": 2,
+                    "id": 2,
                     "session_date": "2020-03-04",
                     "session_period": 3500000
                 },
                 {
-                    "session_id": 3,
+                    "id": 3,
                     "session_date": "2020-03-05",
                     "session_period": 2200000
                 }
