@@ -265,14 +265,5 @@
                 }
             ]
         }
-    ],
-    "sightings": [
-        {
-            "sighting_id":1
-        }
-
-    ],
-    "locations": [],
-    "birds": [],
-    "sessions": []
+    ]
 }
