@@ -132,7 +132,44 @@
             "birds_count": 5
         }
     ],
-  
+    "birds": [
+        {
+            "bird_id": 1,
+            "local_name": "Black-winged (-shouldered) Kite",
+            "scientific_name": "Elanus caeruleus",
+            "conservation_status": "",
+            "general_status": "resident",
+            "sound_url": "https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_10.mp3",
+            "image_url": "https://cdn.pixabay.com/photo/2014/07/08/13/25/forficatu-387081_1280.jpg",
+            "bird_age": 21,
+            "category": "Ground bird",
+            "description": "They have long pink legs, a long thin black bill and are blackish above and white below, with a white head and neck with a varying amount of black. Males have a black back, often with greenish gloss. Females' backs have a brown hue, contrasting with the black remiges."
+        },
+        {
+            "bird_id": 2,
+            "local_name": "Scissor-tailed Kite",
+            "scientific_name": "Chelictinia riocourii",
+            "conservation_status": "",
+            "general_status": "Migrant",
+            "sound_url": "https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_11.mp3",
+            "image_url": "https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_1280.jpg",
+            "bird_age": 11,
+            "category": "Ground bird",
+            "description": "The scissor-tailed kite is a small, slim grey and white kite with a relatively weak bill, a broad head, long pointed wings and a deeply forked tail."
+        },
+        {
+            "bird_id": 3,
+            "local_name": "Striated Heron",
+            "scientific_name": "Butorides striata",
+            "conservation_status": "Vulnerable",
+            "general_status": "Resident",
+            "sound_url": "https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_12.mp3",
+            "image_url": "https://cdn.pixabay.com/photo/2016/02/11/00/37/bird-1192937_1280.jpg",
+            "bird_age": 34,
+            "category": "Ground bird",
+            "description": "This small and stocky heron measures 40-49 cm in length and has a wingspan of 82-95 cm. It has a short neck and a short thick bill."
+        }
+    ],
     "sessions": [
         {
             "session_id": 1,
